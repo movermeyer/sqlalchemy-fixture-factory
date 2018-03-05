@@ -182,12 +182,12 @@ Resources
 
 .. |Build Status| image:: https://travis-ci.org/mmmichl/sqlalchemy-fixture-factory.svg?branch=master
    :target: https://travis-ci.org/mmmichl/sqlalchemy-fixture-factory
-.. |Version Status| image:: https://pypip.in/version/SQLAlchemy-Fixture-Factory/badge.svg
+.. |Version Status| image:: https://img.shields.io/pypi/v/SQLAlchemy-Fixture-Factory.svg
    :target: https://pypi.python.org/pypi/SQLAlchemy-Fixture-Factory/
    :alt: Latest Version
 .. |Documentation| image:: https://readthedocs.org/projects/sqlalchemy-fixture-factory/badge/?version=latest
    :target: https://readthedocs.org/projects/sqlalchemy-fixture-factory/?badge=latest
    :alt: Documentation Status
-.. |Downloads| image:: https://pypip.in/download/SQLAlchemy-Fixture-Factory/badge.svg
+.. |Downloads| image:: https://img.shields.io/pypi/dm/SQLAlchemy-Fixture-Factory.svg
    :target: https://pypi.python.org/pypi/SQLAlchemy-Fixture-Factory/
    :alt: Downloads
